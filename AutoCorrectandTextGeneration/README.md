@@ -26,4 +26,5 @@ Some interesting features include:
 
 ### *References*
 https://medium.com/@kangeugine/hidden-markov-model-7681c22f5b9
-
+Christopher M. Bishop - Pattern Recognition and Machine Learning
+* Chapters 8 and 13
